@@ -137,7 +137,7 @@ class Welcome extends CI_Controller {
         } else {
 
 
-            echo "hatalı";
+            echo "Bir hata oluştus";
         }
 	}
 }
