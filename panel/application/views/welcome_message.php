@@ -10,7 +10,7 @@
     <div class="wrap-contact100">
         <form class="contact100-form validate-form" action="<?php echo base_url("welcome/sendToEmail");?>" method="post" enctype="multipart/form-data">
 				<span class="contact100-form-title">
-					Ege Sedef Aydınlatma <br> Destek Paneli
+					Ege Sedef Aydınlatma <br> Destek Paneli-
 				</span>
             <?php
 
